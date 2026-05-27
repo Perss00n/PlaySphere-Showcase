@@ -1,0 +1,49 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+artifacts/
+publish/
+
+# IDE / Editor
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# Logs
+[Ll]og/
+[Ll]ogs/
+*.log
+
+# Secrets & config
+appsettings.Development.json
+*.pfx
+*.publishsettings
+*.pubxml
+
+# NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Test results
+[Tt]est[Rr]esult*/
+coverage*.json
+coverage*.xml
+coverage*.info
+*.coverage
+
+# Database files
+*.mdf
+*.ldf
+
+# OS files
+[Tt]humbs.db
+.DS_Store
+/.claude/settings.local.json
