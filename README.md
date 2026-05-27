@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/playsphere-logo.svg" alt="PlaySphere" width="180" />
+<img src="screenshots/playsphere-logo.svg" alt="PlaySphere" width="180%" />
 
 # PlaySphere
 
